@@ -20,3 +20,4 @@ The project, **Online shopping**, caters to the working of an online shopping we
 •	Tentative date of delivery and additional distance charges are calculated on the basis of the address entered by the user. 
 
 
+![image](https://user-images.githubusercontent.com/56342856/113866291-c4732300-97ca-11eb-9d1c-898ff3734c53.png)
